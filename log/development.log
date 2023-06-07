@@ -1,0 +1,8 @@
+  [1m[35m (2380.8ms)[0m  [1m[35mCREATE DATABASE "mysite_development" ENCODING = 'unicode'[0m
+Started GET "/" for ::1 at 2023-06-07 14:50:43 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.5/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/railties-7.0.5/lib/rails/templates/rails/welcome/index.html.erb (Duration: 73.2ms | Allocations: 695)
+Completed 200 OK in 861ms (Views: 185.0ms | ActiveRecord: 0.0ms | Allocations: 8229)
+
+
